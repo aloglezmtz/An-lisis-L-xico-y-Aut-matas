@@ -2,8 +2,8 @@
 **Registro técnico de la solución**
 
 - **Profesor:** José Antonio Aviña Méndez
-- **Alumno:** Alondra Goretti Gonzalez Martinez
-- **Fecha:** 23 de septiembre del 2026
+- **Alumnos:** Alondra Goretti Gonzalez Martinez y Emiliano Barraza Cervantes
+- **Fecha:** 30 de septiembre del 2026
 - **Archivos:** `hands_on1.cpp` (núcleo en C++), `index.html` (interfaz web)
 
 ---
